@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 22 21:58:07 MSK 2026","Sun Feb 22 21:58:07 MSK 2026","2","","ApiMockTest","","ApiMockTest","testDeleteTask","testDeleteTask()","DELETE запрос: Удаление задачи"
+"passed","Sun Feb 22 21:58:06 MSK 2026","Sun Feb 22 21:58:07 MSK 2026","202","","ApiMockTest","","ApiMockTest","testGetTasks","testGetTasks()","GET запрос: Получение списка задач"
+"passed","Sun Feb 22 21:58:07 MSK 2026","Sun Feb 22 21:58:07 MSK 2026","3","","ApiMockTest","","ApiMockTest","testCreateTask","testCreateTask()","POST запрос: Создание задачи"
