@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApiMockTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-02-22T19:11:46" hostname="hacker" time="0.102">
+  <properties/>
+  <testcase name="testGetTasks()" classname="ApiMockTest" time="0.094"/>
+  <testcase name="testCreateTask()" classname="ApiMockTest" time="0.003"/>
+  <testcase name="testDeleteTask()" classname="ApiMockTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
